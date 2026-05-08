@@ -1,0 +1,1 @@
+# L.-A.-Mellini-Liivimaa-atlase-kontrollpunktid
