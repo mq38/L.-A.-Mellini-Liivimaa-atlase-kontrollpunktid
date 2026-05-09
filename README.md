@@ -34,7 +34,7 @@ Column order:
 x_in    y_in    X_EST97    Y_EST97
 ```
 
-Source maps
+## Source maps
 
 The map sheets used for this dataset are from the Library of Congress digitized copy of Mellin's atlas:
 
@@ -45,7 +45,7 @@ https://www.loc.gov/resource/g7022lm.gct00143/?st=gallery
 
 The Library of Congress record includes several copies of the atlas. This dataset refers to Copy 1.
 
-Methodological reference
+## Methodological reference
 
 The control points were prepared for Differential Distortion Analysis, following the approach described in:
 
