@@ -31,3 +31,23 @@ Column order:
 
 ```text
 x_in    y_in    X_EST97    Y_EST97
+
+Source maps
+
+The map sheets used for this dataset are from the Library of Congress digitized copy of Mellin's atlas:
+
+Ludwig August Mellin, Atlas von Liefland, oder von den beyden Gouvernementern u. Herzogthümern Lief- und Ehstland, und der Provinz Oesel.
+
+Library of Congress, Copy 1:
+https://www.loc.gov/resource/g7022lm.gct00143/?st=gallery
+
+The Library of Congress record includes several copies of the atlas. This dataset refers to Copy 1.
+
+Methodological reference
+
+The control points were prepared for Differential Distortion Analysis, following the approach described in:
+
+Claeys Boùùaert, M., De Baets, B., Vervust, S., Neutens, T., De Maeyer, P., & Van de Weghe, N. (2016). Computation and visualisation of the accuracy of old maps using differential distortion analysis. International Journal of Geographical Information Science, 30(7), 1255–1280. https://doi.org/10.1080/13658816.2015.1127377
+
+The original MATLAB/Octave implementation of the method is available here:
+https://github.com/mclaeysb/distortionAnalysis
