@@ -29,7 +29,7 @@ Each file contains one ground control point pair per line. The files have no hea
 
 Column order:
 
-```text
+
 x_in    y_in    X_EST97    Y_EST97
 
 Source maps
